@@ -1,0 +1,8 @@
+name: GUI
+author: Aussie_Jhawking
+version: 1.0
+description: GUI
+main: com.ep5.GUI.Core
+commands:
+   gui:
+      description: Open's My GUI.
